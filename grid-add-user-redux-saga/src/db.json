@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Stone",
+      "email": "stone.2@gmail.com",
+      "phone": "8980206651"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "john.1@gmail.com",
+      "phone": "9712666809"
+    },
+    {
+      "name": "sunita",
+      "email": "abc.111@gmail.com",
+      "phone": "1231231234",
+      "id": 3
+    },
+    {
+      "name": "neel",
+      "email": "n.1@gmail.com",
+      "phone": "1231231234",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc.111@gmail.com",
+      "phone": "1231231234",
+      "id": 5
+    }
+  ]
+}
